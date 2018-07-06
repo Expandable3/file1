@@ -1,0 +1,54 @@
+.header{
+    background-color:#ffff80;
+    height:50px ;
+width:100%;
+color:black;
+font-family:"nato sans",san-serif;
+font-size: 40px;
+text-align:right;
+padding:20px;
+box-sizing: border-box;
+
+}
+table.table1,table.table1 th{background-color: #ffedff;
+margin-top:40px;
+font-size:20px;
+color:black;
+border:2px solid #ffedff;
+border-collapse: collapse;
+padding:6px;
+box-sizing: border-box;
+}
+#size{margin-top: 27px} 
+#width{width:95%;
+    text-align:left;
+;}
+table.table1 th:hover{background-color:red;
+}
+#writting{ font-family:"playflair Display", serif;
+margin:50px;
+font-size:30px;
+font-style:italic;}
+table.table2,table.table2 th,table.table2 td,
+table.table2  tr
+{border: 2px solid black;
+    border-collapse: collapse;
+     height: 100px;
+    width:300px;
+    box-sizing:border-box;
+}
+table.table2 td:hover{background-color: #f2f2f2}
+table.table2 th:hover{background-color:#4CAF50;}
+table.table2 th img,table.table2 td img{max-width: 100%;
+    max-height:100% ;
+
+}
+table.table3, table.table3 tr, table.table3 th, table.table3 td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width:100px;
+    height:200px;
+}
+#position{float:left;}
+#position1{float: right;
+display: inline-block; }
